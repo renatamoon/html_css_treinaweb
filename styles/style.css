@@ -1,0 +1,63 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #dcdcc6 ;
+    font-size: 14px;
+    text-align: center;
+}
+
+.div_cabecalho{
+    font-size: 100;
+    color: red;
+}
+
+#title_page{
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+#quadrinhos{
+    font-size: 20px;
+
+}
+
+#maislidos{
+    font-size: x-large;
+    background-color: #006699;
+    color: blanchedalmond;
+
+}
+
+.container{
+    background-color: #006699;
+    padding: 8px;
+    height: 230px;
+    justify-content: space-evenly;
+}
+
+.item{
+    background-color: #cceeff;
+    border: 1px solid black;
+    border-radius: 5px;
+
+}
+
+#filmesmaisvistos{
+    font-size: x-large;
+    background-color: #006699;
+    color: blanchedalmond;
+
+}
+
+.container_second{
+    background-color: #006699;
+    padding: 8px;
+    height: 230px;
+    justify-content: space-evenly;
+}
+
+.item1{
+    background-color: #cceeff;
+    border: 1px solid black;
+    border-radius: 5px;
+
+}
